@@ -4,6 +4,10 @@ main:
     url: https://juhyeoklee.github.io
   - title: "About"
     url: https://juhyeoklee.github.io/about
+  - title: "Categories"
+    url: https://juhyeoklee.github.io/categories
+  - title: "Tags"
+    url: https://juhyeoklee.github.io/tags
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
