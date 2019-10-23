@@ -1,13 +1,21 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "Home"
     url: https://juhyeoklee.github.io
   - title: "About"
     url: https://juhyeoklee.github.io/about
+  - title: "iOS"
+    url: https://juhyeoklee.github.io/iOS
+  - title: "Android"
+    url: https://juhyeoklee.github.io/Android
+  - title: "Algorithm"
+    url: url: https://juhyeoklee.github.io/Algorithm
   - title: "Categories"
     url: https://juhyeoklee.github.io/categories
   - title: "Tags"
     url: https://juhyeoklee.github.io/tags
+    
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
