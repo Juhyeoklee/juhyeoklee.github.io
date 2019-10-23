@@ -3,17 +3,17 @@ main:
   - title: "Home"
     url: https://juhyeoklee.github.io
   - title: "About"
-    url: https://juhyeoklee.github.io/about
+    url: /about
   - title: "iOS"
-    url: https://juhyeoklee.github.io/iOS/
+    url: /Categories/iOS/
   - title: "Android"
-    url: https://juhyeoklee.github.io/Android
+    url: /Categories/Android/
   - title: "Algorithm"
-    url: https://juhyeoklee.github.io/Algorithm
+    url: /Categories/Algorithm/
   - title: "Categories"
-    url: https://juhyeoklee.github.io/categories
+    url: /Categories/categories/
   - title: "Tags"
-    url: https://juhyeoklee.github.io/tags
+    url: /Categories/tags/
     
     
   # - title: "Sample Posts"
