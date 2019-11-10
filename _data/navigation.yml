@@ -10,10 +10,12 @@ main:
     url: /Categories/Android/
   - title: "Algorithm"
     url: /Categories/Algorithm/
+  - title: "React"
+    url: /Categories/React
   - title: "Categories"
-    url: /Categories/categories/
+    url: /categories/
   - title: "Tags"
-    url: /Categories/tags/
+    url: /tags/
     
     
   # - title: "Sample Posts"
