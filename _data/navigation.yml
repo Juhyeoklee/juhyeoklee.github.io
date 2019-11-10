@@ -5,13 +5,13 @@ main:
   - title: "About"
     url: /about
   - title: "iOS"
-    url: /Categories/iOS/
+    url: /categories/iOS/
   - title: "Android"
-    url: /Categories/Android/
+    url: /categories/Android/
   - title: "Algorithm"
-    url: /Categories/Algorithm/
+    url: /categories/Algorithm/
   - title: "React"
-    url: /Categories/React/
+    url: /categories/React/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
